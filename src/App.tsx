@@ -1,24 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/** @jsx jsx */
+import { css, jsx } from "@emotion/core";
+import React from "react";
+import "./App.css";
+import { Button } from "react-bootstrap";
+import styled from "styled-components";
+
+const YeetButton = styled(Button)({});
+
+const Header = styled.div({
+  backgroundColor: "#F1F1F1",
+  textAlign: "center" as "center",
+  padding: 20,
+});
+
+const ButtonContainer = styled.div({
+  display: "inline-flex",
+  flexDirection: "row" as "row",
+  justifyContent: "space-around",
+  width: 300,
+});
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="Page">
+      <Header>
+        <ButtonContainer>
+          <YeetButton variant="primary">hi</YeetButton>
+          <YeetButton variant="success">yo</YeetButton>
+          {/*<Button variant="primary">ellao</Button>*/}
+        </ButtonContainer>
+      </Header>
     </div>
   );
 }
