@@ -24,7 +24,7 @@ function Contact() {
       <div css={{ height: 35, backgroundColor: "lightgray" }} />
       <div
         css={{
-          minHeight: 750,
+          minHeight: 800,
           backgroundColor: background_color,
         }}
       >
