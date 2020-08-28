@@ -17,7 +17,7 @@ const ButtonContainer = styled.div({
   display: "inline-flex",
   flexDirection: "row" as "row",
   justifyContent: "space-around",
-  width: 300,
+  width: 350,
 });
 
 function App() {
