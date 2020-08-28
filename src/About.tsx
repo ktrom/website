@@ -42,17 +42,17 @@ function About() {
             <div css={{ fontSize: 20, width: 800, paddingBottom: "2rem" }}>
               I wasd raised in a suburb of Chicago called Hoffman Estates. I
               grew up enjoying math and science classes, but focused largely on
-              my soccer and wrestling career instead of . I started my college career by
-              going to a local community college called Harper College. While I
-              was at Harper, I took an introduction to programming course which
-              was taught in C++ and fell in love. I found myself spending late
-              nights at Dunkin' Donuts creating unnecessarily complicated
-              projects for simple assignments. As a result, I started checking
-              out math books from the library to better my knowledge of how to
-              write complex programs and started combining my engineering
-              knowledge with software to effectively do all the calculation work
-              in my engineering classes for me, reducing my job to giving the
-              program its input.
+              my soccer and wrestling career instead of . I started my college
+              career by going to a local community college called Harper
+              College. While I was at Harper, I took an introduction to
+              programming course which was taught in C++ and fell in love. I
+              found myself spending late nights at Dunkin' Donuts creating
+              unnecessarily complicated projects for simple assignments. As a
+              result, I started checking out math books from the library to
+              better my knowledge of how to write complex programs and started
+              combining my engineering knowledge with software to effectively do
+              all the calculation work in my engineering classes for me,
+              reducing my job to giving the program its input.
             </div>
           </div>
           <div
