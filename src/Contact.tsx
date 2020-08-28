@@ -32,7 +32,7 @@ function Contact() {
           Let's Get In Touch!
         </StandardContainer>
         <StandardContainer css={{ padding: 20 }}>
-          <ContactPicture src="https://res.cloudinary.com/trommah/image/upload/v1598575304/DSC_0231_morwjs.jpg" />
+          {/*<ContactPicture src="https://res.cloudinary.com/trommah/image/upload/v1598575304/DSC_0231_morwjs.jpg" />*/}
         </StandardContainer>
       </div>
     </React.Fragment>
