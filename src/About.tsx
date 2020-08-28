@@ -46,7 +46,7 @@ function About() {
               going to a local community college called Harper College. While I
               was at Harper, I took an introduction to programming course which
               was taught in C++ and fell in love. I found myself spending late
-              nights at Dunkin Donuts creating unnecessarily complicated
+              nights at Dunkin' Donuts creating unnecessarily complicated
               projects for simple assignments. As a result, I started checking
               out math books from the library to better my knowledge of how to
               write complex programs and started combining my engineering
