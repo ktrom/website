@@ -17,6 +17,12 @@ const ExperiencePicture = styled.img({
   width: "25%",
   height: "25%",
 });
+
+const LogoPicture = styled.img({
+  maxWidth: "100%",
+  width: "25%",
+  height: "25%",
+});
 function Experience() {
   return (
     <React.Fragment>
@@ -26,13 +32,17 @@ function Experience() {
         css={{
           minHeight: 750,
           backgroundColor: background_color,
+          paddingBottom: 250,
         }}
       >
         <StandardContainer css={{ paddingTop: 20, fontSize: 25 }}>
-          Past Experiences
+          Past Experience
         </StandardContainer>
         <StandardContainer css={{ padding: 20 }}>
           <ExperiencePicture src="https://res.cloudinary.com/trommah/image/upload/v1598575304/DSC_0231_morwjs.jpg" />
+        </StandardContainer>
+        <StandardContainer css={{ padding: 20 }}>
+          <LogoPicture src="./apptio.png" />
         </StandardContainer>
       </div>
     </React.Fragment>

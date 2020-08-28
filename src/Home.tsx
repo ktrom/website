@@ -22,7 +22,7 @@ const HomePicture = styled.img({
 function Home() {
   return (
     <div
-      css={{ backgroundColor: lightGrey, marginTop: 56, minHeight: "700px" }}
+      css={{ backgroundColor: lightGrey, marginTop: 56, minHeight: "700px", paddingBottom:250 }}
     >
       <StandardContainer css={{ paddingTop: 60, fontSize: 25 }}>
         Hi! I'm Kyle. Welcome to my website!
