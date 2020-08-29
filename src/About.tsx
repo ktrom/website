@@ -71,14 +71,14 @@ function About() {
             I set my sights for a Software internship in November of 2019, and
             took a chance, turning down three mechanical engineering internship
             offers. I was fortunate enough to be offered an internship at Apptio
-            based out of Bellevue, Washington, as a full stack software
+            based out of Bellevue, Washington, as a full-stack software
             development intern. At Apptio, I was challenged to learn new
             technologies and practices daily, and found there was always
             something new to learn. For me, this was a dream. I also learned
             that I love not only back-end development, but also front-end! My
             experience at Apptio validated my decision to go into software and
             was everything I had hoped for in a software job. Now, I am
-            searching for a full stack development position!
+            searching for a full-stack development position!
           </div>
         </StandardContainer>
       </div>

@@ -36,7 +36,7 @@ function Experience() {
         }}
       >
         <StandardContainer css={{ paddingTop: 20, fontSize: 25 }}>
-          Past Experience
+          Experience
         </StandardContainer>
         <StandardContainer css={{ padding: 20 }}>
           <ExperiencePicture src="https://res.cloudinary.com/trommah/image/upload/v1598575304/DSC_0231_morwjs.jpg" />

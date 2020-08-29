@@ -22,7 +22,12 @@ const HomePicture = styled.img({
 function Home() {
   return (
     <div
-      css={{ backgroundColor: lightGrey, marginTop: 56, minHeight: "700px", paddingBottom:250 }}
+      css={{
+        backgroundColor: lightGrey,
+        marginTop: 56,
+        minHeight: "700px",
+        paddingBottom: 250,
+      }}
     >
       <StandardContainer css={{ paddingTop: 60, fontSize: 25 }}>
         Hi! I'm Kyle. Welcome to my website!
@@ -33,7 +38,7 @@ function Home() {
       <StandardContainer css={{ display: "flex", justifyContent: "center" }}>
         <div css={{ fontSize: 25, width: 600 }}>
           I am a Senior in Computer Science at Iowa State University and I will
-          be graduating in May, 2021. I have a passion for full stack
+          be graduating in May, 2021. I have a passion for full-stack
           development and am actively looking for a full-time developer position
           near Seattle, Washington beginning May, 2021.
         </div>
