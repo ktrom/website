@@ -45,14 +45,14 @@ function About() {
               the right direction for me. I started my college career by going
               to a local community college called Harper College. While I was at
               Harper, I took an introduction to programming course which was
-              taught in C++. I fell in love. I found myself spending late
-              nights at Dunkin' Donuts creating unnecessarily complicated
-              projects for simple assignments. As a result, I started checking
-              out math books from the library to better my knowledge of how to
-              write complex programs and started combining my engineering
-              knowledge with software to effectively do all the calculation work
-              in my engineering classes for me, reducing my job to giving the
-              program its input.
+              taught in C++. I fell in love. I found myself spending late nights
+              at Dunkin' Donuts creating unnecessarily complicated projects for
+              simple assignments. As a result, I started checking out math books
+              from the library to better my knowledge of how to write complex
+              programs and started combining my engineering knowledge with
+              software to effectively do all the calculation work in my
+              engineering classes for me, reducing my job to giving the program
+              its input.
             </div>
           </div>
           <div
