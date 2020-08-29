@@ -40,7 +40,7 @@ function About() {
             css={{ display: "flex", justifyContent: "center", width: "100%" }}
           >
             <div css={{ fontSize: 20, width: 800, paddingBottom: "2rem" }}>
-              I wasd raised in a suburb of Chicago called Hoffman Estates. I
+              I was raised in a suburb of Chicago called Hoffman Estates. I
               grew up enjoying math and science classes, but focused largely on
               my soccer and wrestling career instead of . I started my college
               career by going to a local community college called Harper
