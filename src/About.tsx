@@ -2,7 +2,6 @@
 import { css, jsx } from "@emotion/core";
 import React from "react";
 import "./App.css";
-import { Button, Navbar, Nav, Form, FormControl } from "react-bootstrap";
 import styled from "styled-components";
 const background_color = "#A9A9A947";
 
