@@ -44,6 +44,12 @@ function Experience() {
         <StandardContainer css={{ padding: 20 }}>
           <LogoPicture src="./apptio.png" />
         </StandardContainer>
+        <StandardContainer css={{ padding: 20 }}>
+          <LogoPicture src="./AltecLogo.png" />
+        </StandardContainer>
+        <StandardContainer css={{ padding: 20 }}>
+          <LogoPicture src="./iowastate.png" />
+        </StandardContainer>
       </div>
     </React.Fragment>
   );

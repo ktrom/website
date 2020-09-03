@@ -11,7 +11,7 @@ const StandardContainer = styled.div({
 
 const AboutPicture = styled.img({
   borderRadius: 20,
-  maxWidth: "50%",
+  maxWidth: "60%",
   boxShadow: "3px 3px 5px #ccc",
 });
 function About() {
@@ -30,7 +30,7 @@ function About() {
           About Me
         </StandardContainer>
         <StandardContainer css={{ padding: 20 }}>
-          <AboutPicture src="https://res.cloudinary.com/trommah/image/upload/v1598652058/chicago_nznvcu.jpg" />
+          <AboutPicture src="./chicagoskyline.jpg" />
         </StandardContainer>
         <StandardContainer
           css={{ display: "flex", justifyContent: "center", flexWrap: "wrap" }}
