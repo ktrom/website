@@ -36,7 +36,7 @@ function Home() {
         <HomePicture src="https://res.cloudinary.com/trommah/image/upload/v1598577738/DSC_0331_2_jxe5b8.jpg" />
       </StandardContainer>
       <StandardContainer css={{ display: "flex", justifyContent: "center" }}>
-        <div css={{ fontSize: 25, width: 600, textAlign: "left" }}>
+        <div css={{ fontSize: 25, width: 600 }}>
           I am a Senior in Computer Science at Iowa State University and I will
           be graduating in May, 2021. I have a passion for full-stack
           development and am actively looking for a full-time developer position
