@@ -38,7 +38,14 @@ function About() {
           <div
             css={{ display: "flex", justifyContent: "center", width: "100%" }}
           >
-            <div css={{ fontSize: 20, width: 800, paddingBottom: "2rem", textAlign: "left"}}>
+            <div
+              css={{
+                fontSize: 20,
+                width: 800,
+                paddingBottom: "2rem",
+                textAlign: "left",
+              }}
+            >
               I was raised in a suburb of Chicago called Hoffman Estates. I grew
               up enjoying math and science classes, so I knew engineering was
               the right direction for me. I started my college career by going
@@ -57,7 +64,14 @@ function About() {
           <div
             css={{ display: "flex", justifyContent: "center", width: "100%" }}
           >
-            <div css={{ fontSize: 20, width: 800, paddingBottom: "2rem", textAlign: "left" }}>
+            <div
+              css={{
+                fontSize: 20,
+                width: 800,
+                paddingBottom: "2rem",
+                textAlign: "left",
+              }}
+            >
               After earning my Associate's Degree in Engineering Science in
               2018, I began attending Iowa State University in Ames, Iowa as a
               Mechanical Engineering major with intent for a Computer Science
