@@ -124,8 +124,8 @@ function Experience() {
             <br />
             <br />
             While at Altec, I worked with Solidworks creating CAD models and
-            also with Solidworks' API to automatically build truck models. I
-            also noticed that the engineers were repeatedly performing the same
+            with Solidworks' API to automatically build truck models. I also
+            noticed that the engineers were repeatedly performing the same
             stress calculations and made a Java application that could do it for
             them.
           </TextBox>
