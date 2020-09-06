@@ -29,8 +29,8 @@ function App() {
       >
         <Navbar.Brand href="#">Kyle Trom</Navbar.Brand>
         <Nav className="mr-auto">
-          <Nav.Link href="#about">about me</Nav.Link>
           <Nav.Link href="#experience">experience</Nav.Link>
+          <Nav.Link href="#about">about me</Nav.Link>
           <Nav.Link href="#contact">contact me!</Nav.Link>
         </Nav>
       </Navbar>

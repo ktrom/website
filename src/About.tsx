@@ -46,10 +46,10 @@ function About() {
                 textAlign: "left",
               }}
             >
-              I was raised in Hoffman Estates, a suburb of Chicago. I grew
-              up enjoying math and science classes, so I knew engineering was
-              the right direction for me. I started my college career by going
-              to a local community college called Harper College. While I was at
+              I was raised in Hoffman Estates, a suburb of Chicago. I grew up
+              enjoying math and science classes, so I knew engineering was the
+              right direction for me. I started my college career by going to a
+              local community college called Harper College. While I was at
               Harper, I took an introduction to programming course which was
               taught in C++. I fell in love. I found myself spending late nights
               at Dunkin' Donuts creating unnecessarily complicated projects for
