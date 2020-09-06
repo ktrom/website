@@ -123,11 +123,11 @@ function Experience() {
             </a>{" "}
             <br />
             <br />
-            While at Altec, I worked with Solidworks creating CAD models and
-            with Solidworks' API to automatically build truck models. I also
-            noticed that the engineers were repeatedly performing the same
-            stress calculations and made a Java application that could do it for
-            them.
+            While at Altec, I worked with Solidworks' API to automatically build
+            truck models instead of having to manually "assemble" them with CAD.
+            I also noticed that the engineers were repeatedly performing the
+            same stress calculations and made a Java application that could do
+            it for them.
           </TextBox>
         </ExperienceContainer>
       </div>
