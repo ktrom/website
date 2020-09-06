@@ -44,7 +44,7 @@ const LogoPicture = styled.img({
 function Experience() {
   return (
     <React.Fragment>
-      <div css={{ height: 21, backgroundColor: "#A9A9A947" }} />
+      <div css={{ height: 21, backgroundColor: background_color }} />
       <div css={{ height: 35, backgroundColor: "lightgray" }} />
       <div
         css={{
