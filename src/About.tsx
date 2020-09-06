@@ -46,7 +46,7 @@ function About() {
                 textAlign: "left",
               }}
             >
-              I was raised in a suburb of Chicago called Hoffman Estates. I grew
+              I was raised in Hoffman Estates, a suburb of Chicago. I grew
               up enjoying math and science classes, so I knew engineering was
               the right direction for me. I started my college career by going
               to a local community college called Harper College. While I was at
