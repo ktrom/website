@@ -14,11 +14,11 @@ const Main = () => {
       <div id="home">
         <Home />
       </div>
-      <div id="about">
-        <About />
-      </div>
       <div id="experience">
         <Experience />
+      </div>
+      <div id="about">
+        <About />
       </div>
       <div id="contact">
         <Contact />
