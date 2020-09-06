@@ -75,10 +75,10 @@ function About() {
               After earning my Associate's Degree in Engineering Science in
               2018, I began attending Iowa State University in Ames, Iowa as a
               Mechanical Engineering major with intent for a Computer Science
-              minor. After creating countless Engineering Software tools as a
-              hobby, I realized in late 2019 that I wanted my career to heavily
-              involve software development and declared a second major in
-              Computer Science.
+              minor. After creating countless engineering tools as a hobby, I
+              realized in late 2019 that I wanted my career to heavily involve
+              software development and declared a second major in Computer
+              Science.
             </div>
           </div>
           <div css={{ fontSize: 20, width: 800, textAlign: "left" }}>
