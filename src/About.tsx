@@ -75,7 +75,7 @@ function About() {
               After earning my Associate's Degree in Engineering Science in
               2018, I began attending Iowa State University in Ames, Iowa as a
               Mechanical Engineering major with intent for a Computer Science
-              minor. After creating countless engineering tools as a hobby, I
+              minor. After developing countless engineering tools as a hobby, I
               realized in late 2019 that I wanted my career to heavily involve
               software development and declared a second major in Computer
               Science.
@@ -84,12 +84,12 @@ function About() {
           <div css={{ fontSize: 20, width: 800, textAlign: "left" }}>
             I set my sights for a Software internship in November of 2019, and
             took a chance, turning down three mechanical engineering internship
-            offers. I was fortunate enough to be offered an internship at Apptio
-            based out of Bellevue, Washington, as a full-stack software
+            offers. I was fortunate enough to be offered an internship at
+            Apptio, based out of Bellevue, Washington, as a full-stack software
             development intern. At Apptio, I was challenged to learn new
             technologies and practices daily, and found there was always
             something new to learn. For me, this was a dream. I also learned
-            that I love not only back-end development, but also front-end! My
+            that I enjoy front-end development as much as back-end! My
             experience at Apptio validated my decision to go into software and
             was everything I had hoped for in a software job. Now, I am
             searching for a full-stack development position!
