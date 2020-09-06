@@ -14,7 +14,7 @@ const ExperienceContainer = styled.div({
   alignItems: "center",
   display: "inline-flex",
   justifyContent: "space-between",
-  margin: "0 0 2rem 0",
+  margin: "0 0 7rem 0",
   width: "75rem",
   // borderWidth: 1,
   // borderStyle: "solid",
@@ -25,7 +25,7 @@ const ExperienceContainer = styled.div({
 const TextBox = styled.div({
   fontSize: "20px",
   textAlign: "left" as "left",
-  width: "40rem",
+  width: "36.5rem",
 });
 
 const ExperiencePicture = styled.img({
@@ -55,7 +55,7 @@ function Experience() {
         }}
       >
         <StandardContainer
-          css={{ paddingTop: 20, paddingBottom: 30, fontSize: 25 }}
+          css={{ paddingTop: 20, paddingBottom: 50, fontSize: 25 }}
         >
           Experience
         </StandardContainer>
